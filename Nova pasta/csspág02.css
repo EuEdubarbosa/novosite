@@ -1,0 +1,29 @@
+body {
+    background: linear-gradient(90deg, #FFFFFF, #444444);
+}
+h1{
+    color: darkred;
+    font-size: 100px;
+}
+h2{
+    color: darkred;
+    font-size: 75px;
+}
+p{
+    font-size: 50px;
+}
+hr{
+    border: 1px solid red;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    height: 110px;
+    width: 80;
+
+  }
+  
+  .container {
+    max-width: 1300px;
+    margin: 0 auto;
+  }
